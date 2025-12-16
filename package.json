@@ -1,0 +1,13 @@
+{
+  "name": "aws-serverless-devops",
+  "version": "1.0.0",
+  "description": "Serverless app deployed using GitHub Actions",
+  "main": "handler.js",
+  "scripts": {
+    "deploy": "serverless deploy"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "serverless": "^3.38.0"
+  }
+}

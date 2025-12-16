@@ -1,0 +1,21 @@
+#create a api gateway lambda function
+# infrastructure code for aws services: api gateway and lambda function
+
+service: aws-serverless-devops
+ 
+provider:
+  name: aws
+  runtime: nodejs18.x
+  region: ap-south-1
+  stage: prod
+ 
+functions:
+  hello:
+    handler: handler.hello
+    events:
+      - httpApi:
+          path: /hello
+          method: get
+
+aws sts get-caller-identity : if using own laptop
+aws sts get-caller-identity --no-verify-ssl : if using any organization laptop
