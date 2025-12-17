@@ -1,4 +1,18 @@
-# 🚀 AWS-SERVERLESS-DEVOPS
+<p align="center">
+  <img src="assets/project-banner.png" alt="AWS Serverless DevOps Banner" width="100%">
+</p>
+
+<h1 align="center">AWS-SERVERLESS-DEVOPS</h1>
+
+<p align="center">
+  Serverless DevOps Project using AWS & CI/CD Automation
+</p>
+
+<p align="center">
+  👤 GitHub: <a href="https://github.com/iamtamil0">iamtamil0</a> |
+  🔗 LinkedIn: <a href="https://www.linkedin.com/in/ntamilmanin/">Profile</a>
+</p>
+
 
 A hands-on **DevOps + Serverless** project demonstrating how to build, deploy, and automate a **serverless application on AWS** using modern DevOps practices.
 
