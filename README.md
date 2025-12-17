@@ -10,7 +10,7 @@
 
 <p align="center">
   👤 GitHub: <a href="https://github.com/iamtamil0">iamtamil0</a> |
-  🔗 LinkedIn: <a href="https://www.linkedin.com/in/ntamilmanin/">Profile</a>
+  🔗 LinkedIn: <a href="https://www.linkedin.com/in/ntamilmanin/">Tamilmani N</a>
 </p>
 
 
